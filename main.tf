@@ -154,5 +154,3 @@ resource "aws_instance" "web-server-instance" {
   }
 
 }
-
-  #set up internet gateway
