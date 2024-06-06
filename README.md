@@ -20,7 +20,7 @@ This Terraform script automates the deployment of an EC2 instance inside a VPC o
 **Prerequisites**
 
 - AWS Account: You need an AWS account with appropriate permissions.
-- Terraform: Install Terraform locally. Terraform Installation Guide.
+- Terraform: Install Terraform locally. [Terraform Installation Guide.](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 **Usage**
 - Clone the repository:
