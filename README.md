@@ -1,5 +1,6 @@
 
 **Overview**
+
 This Terraform script automates the deployment of an EC2 instance inside a VPC on AWS. It sets up necessary routing and deploys both S3 and DynamoDB for state locking to facilitate Terraform operations.
 
 **Features**
