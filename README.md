@@ -39,4 +39,5 @@ This Terraform script automates the deployment of an EC2 instance inside a VPC o
 - terraform apply
 
 **Clean up (Optional): This will tear down everything so you won't get charged/billed.**
+
 terraform destroy
